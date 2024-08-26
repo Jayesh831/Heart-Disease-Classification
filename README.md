@@ -6,17 +6,17 @@ Atherosclerosis happens slowly as plaque builds up on the artery walls. This bui
 This can cause chest pain (angina) and, in bad cases, a heart attack. The blockage can happen in different places in the heart, affecting different parts of it.
 
 
-Project Goal:
+**Project Goal:**
 
 In this project, we'll use a neural network to predict a person's health condition. We'll do this by analyzing different pieces of information about them. This is called a classification algorithm.
 
 
-Data We'll Use:
+**Data We'll Use:**
 
 We'll be using information about heart disease from a public dataset called the UCI Machine Learning Repository.  This dataset contains various details about different cases of heart disease.
  (You can find it here: [link to UCI Machine Learning Respiratory Disease dataset](https://archive.ics.uci.edu/dataset/45/heart+disease)).
 
- DATA UNDERSTANDING
+** DATA UNDERSTANDING**
 Important parameters:
 
 Number of instances: 302
