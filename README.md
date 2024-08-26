@@ -14,7 +14,7 @@ In this project, we'll use a neural network to predict a person's health conditi
 Data We'll Use:
 
 We'll be using information about heart disease from a public dataset called the UCI Machine Learning Repository.  This dataset contains various details about different cases of heart disease.
- (You can find it here: link to UCI Machine Learning Respiratory Disease dataset).
+ (You can find it here: [link to UCI Machine Learning Respiratory Disease dataset](https://archive.ics.uci.edu/dataset/45/heart+disease)).
 
 
 
